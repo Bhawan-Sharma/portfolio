@@ -24,6 +24,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 .icon-activity:before {
   content: "\e900";
 }
@@ -3678,6 +3680,7 @@
 .icon-googleplus:before {
   content: "\e05f";
 }
+
 .icon-rss5:before {
   content: "\e060";
 }
@@ -3834,3 +3837,5 @@
 .icon-world2:before {
   content: "\ed91";
 }
+
+
